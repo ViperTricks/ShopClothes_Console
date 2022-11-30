@@ -1,0 +1,32 @@
+Admin:
+		- Account
+		- Password
+		- CRUD item
+		- Log out
+		- See, delete user
+		- See, delete orders
+		- See, delete feedback
+User:
+		- Account
+		- Password
+		- Sign up
+		- Log out
+		- See item
+		- Add item to cart
+		- See, delete, change shopping cart
+		- Payment
+		- See order
+		- Feedback
+
+Product: 
+		- Name's item
+		- Price
+		- Quantity remaining in stock
+		- Purchase quantity
+
+Order: 
+		- Date
+		- Customer
+		- Total
+OderDetail: 
+		- List of purchased products 
